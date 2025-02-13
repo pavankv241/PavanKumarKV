@@ -152,7 +152,6 @@
   </tr>
   
 </table>
-<br>
 <h3>NOTE</h3>
 <ul>
   <li>Links that are not working indicate the report is private.</li>
