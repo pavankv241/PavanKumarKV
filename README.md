@@ -95,14 +95,70 @@
     <td>$640</td>
     <td>1L , 1 Insight</td>
   </tr>
-    <tr>
-    <td><a href="https://code4rena.com/audits/2023-01-timeswap-contest">Rubicon V2</a></td>
-    <td>Perpetual Orderbook</td>
-    <td><a href="https://github.com/code-423n4/2023-04-rubicon-findings/issues/55">Link 1</a></td>
-    <td>--</td>
-    <td>1M</td>
+  <tr>
+    <td><a href="https://app.hats.finance/audit-competitions/lodestar-finance-0x74cb0cc1e231ad7c28f50574b1e473e8afef1d7f/leaderboard">Lodestar</a></td>
+    <td>DEFI</td>
+    <td><a href="#">Link 1</a></td>
+    <td>$1100</td>
+    <td>1 Gas Optimation</td>
   </tr>
+
+  <tr>
+    <td><a href="https://app.hats.finance/audit-competitions/gravita-0xa9cb786e4d07117d11b4644f54c5a4f1567e3817/leaderboard">Gravita</a></td>
+    <td>DEFI</td>
+    <td><a href="#">Link 1</a></td>
+    <td>$640</td>
+    <td>1 Gas Optimation</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://app.hats.finance/audit-competitions/lodestar-finance-0x74cb0cc1e231ad7c28f50574b1e473e8afef1d7f/leaderboard">Hopr</a></td>
+    <td>Safe Staking</td>
+    <td><a href="https://app.hats.finance/audit-competitions/safestaking-by-hopr-0x607386df18b663cf5ee9b879fbc1f32466ad5a85/leaderboard">Link 1</a></td>
+    <td>$640</td>
+    <td>1 Gas Optimation</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://app.hats.finance/audit-competitions/paladin-0x1610bfde27e57b068af7f38aec3d2a7b1d146989/leaderboard">Paladin</a></td>
+    <td>DEFi & DAO</td>
+    <td><a href="https://app.hats.finance/audit-competitions/paladin-0x1610bfde27e57b068af7f38aec3d2a7b1d146989/leaderboard">Link 1</a></td>
+    <td>$1580</td>
+    <td>1 Gas Optimation</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://app.hats.finance/audit-competitions/catalyst-exchange-0x3026c1ea29bf1280f99b41934b2cb65d053c9db4/leaderboard">Catalyst</a></td>
+    <td>DEX</td>
+    <td><a href="https://app.hats.finance/audit-competitions/catalyst-exchange-0x3026c1ea29bf1280f99b41934b2cb65d053c9db4/leaderboard">Link 1</a></td>
+    <td>$2000</td>
+    <td>1 Gas Optimation</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://app.hats.finance/audit-competitions/lodestar-finance-0x74cb0cc1e231ad7c28f50574b1e473e8afef1d7f/leaderboard">Liquity(Private)</a></td>
+    <td>DEFI</td>
+    <td><a href="https://app.hats.finance/private-audit-competitions">Link 1</a></td>
+    <td>$2339</td>
+    <td>1 Gas Optimation</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/leaderboard">Palmera</a></td>
+    <td>Safe & Custodian</td>
+    <td><a href="[Palmera](https://app.hats.finance/audit-competitions/palmera-0x5fee7541ddcd51ba9f4af606f87b2c42eea655be/leaderboard)">Link 1</a></td>
+    <td>$546</td>
+    <td>1 Gas Optimation</td>
+  </tr>
+  
 </table>
+<br>
+<h3>NOTE</h3>
+<ul>
+  <li>Links that are not working indicate the report is private.</li>
+  <li>Gas optimization is not just about submitting a gas report by copying and pasting from other reports or pattern-matching from previous ones. Hats Finance follows a different methodology where the gas report should demonstrate actual gas savings without failing any test cases or altering the semantics.</li>
+</ul>
+
 
 
 
