@@ -96,6 +96,14 @@
     <td>1L , 1 Insight</td>
   </tr>
   <tr>
+    <td><a href="">Apex L1 Pools (Invited)</a></td>
+    <td>Cross-Chain</td>
+    <td><a href="https://app.secure3.io/en/32c54710fa?tab=detail">Link 1</a>
+    </td>
+    <td>$343</td>
+    <td>2M , 1L , 1 Info</td>
+  </tr>
+  <tr>
     <td><a href="https://app.hats.finance/audit-competitions/lodestar-finance-0x74cb0cc1e231ad7c28f50574b1e473e8afef1d7f/leaderboard">Lodestar</a></td>
     <td>DEFI</td>
     <td><a href="#">Link 1</a></td>
