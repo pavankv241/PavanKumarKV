@@ -96,6 +96,16 @@
     <td>1L , 1 Insight</td>
   </tr>
   <tr>
+    <tr>
+    <td><a href="">Zaros Part 2</a></td>
+    <td>DEX / Perpetual Markets</td>
+    <td><a href="https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/s/487">Link 1</a>
+    <a href="https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/s/163">Link 2</a>
+    </td>
+    <td>$90</td>
+    <td>1H , 1M</td>
+  </tr>
+  <tr>
     <td><a href="">Apex L1 Pools (Invited)</a></td>
     <td>Cross-Chain</td>
     <td><a href="https://app.secure3.io/en/32c54710fa?tab=detail">Link 1</a>
