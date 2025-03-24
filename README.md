@@ -41,6 +41,13 @@
     <td>$212</td>
     <td>1M , Gas optimisation</td>
   </tr>
+    <tr>
+    <td><a href="https://cantina.xyz/competitions/7db75599-9dad-40aa-9fc7-e879803eea2b">Colorpool-Chromia</a></td>
+    <td>DEX</td>
+    <td><a href="#">Link 1</a></td>
+    <td>$--</td>
+    <td>1M </td>
+  </tr>
   <tr>
     <td><a href="https://code4rena.com/audits/2023-01-timeswap-contest">Rabbit Hole</a></td>
     <td>Token Distribution</td>
